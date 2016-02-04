@@ -7,5 +7,6 @@
   Check to see if your program is correct by running this command:
   javascripting verify strings.js
 */
-
+var someString = 'this is a string';
+console.log(someString);
 
