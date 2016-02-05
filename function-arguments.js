@@ -20,3 +20,7 @@
 
      javascripting verify function-arguments.js
 */
+function fun(firstArg, secondArg, thirdArg) {
+  return secondArg*thirdArg+firstArg;
+}
+console.log(fun(53,61,67));
