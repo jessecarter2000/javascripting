@@ -1,7 +1,7 @@
 /*
  ## The challenge:
 
-  Create a file named objects.js.
+  Crate a file named objects.js.
 
   In that file, define a variable named pizza like this:
 
@@ -17,4 +17,9 @@
 
      javascripting verify objects.js
 */
-
+var pizza ={
+toppings:['cheese', 'sauce', 'pepperoni'],
+crust:'deep dish',
+serves: 2
+};
+console.log(pizza);
